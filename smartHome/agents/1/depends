@@ -1,0 +1,3 @@
+AgentOne_t.o: AgentOne_t.cpp AgentOne_t.h ../../AgentApi_t.h \
+ ../../HubApi_t.h ../../EventType_t.h ../../Event_t.h \
+ ../../ConfigData_t.h

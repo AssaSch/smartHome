@@ -1,0 +1,3 @@
+hub_test.o: hub_test.cpp ../../includes/mu_test.h \
+ ../../includes/EventType_t.h
+EventType_t.o: ../../modules/EventType_t.cpp ../../includes/EventType_t.h

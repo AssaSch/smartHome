@@ -1,0 +1,13 @@
+[fire-drill-test]
+type = TestFire
+room = room_1_a
+floor = 1
+log = safety
+config = Fire_Detected; SIGUSER2
+
+[sprinkler-1-a]
+type = TestSprinkler
+room = room_1_a
+floor = 1
+log = safety
+config = On:Fire_Detected|Smoke_Detected; IoT: 10.10.3.42
