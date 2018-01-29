@@ -19,3 +19,5 @@ specific payload.
 ### Devices
 The system will enable an operator to configure and install software agents that
 mediate communication with external hardware devices.
+
+for more info see: "SmartBuilding-IoT-2016.v1.3.pdf" in repo
